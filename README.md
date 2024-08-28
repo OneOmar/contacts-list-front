@@ -13,7 +13,7 @@ Welcome to the Contacts List Frontend repository! This is a React-based web appl
 ## Technologies Used
 
 - **React**: For building user interfaces
-- **Next.js**: For server-side rendering and routing
+- **React Router**: For client-side routing
 - **Axios**: For making HTTP requests
 - **React Toastify**: For notifications and alerts
 
